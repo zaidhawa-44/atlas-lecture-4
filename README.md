@@ -1,4 +1,4 @@
-# atlas-lecture-4
+# LECTURE 4
 string function
 for loops
 if else functions
